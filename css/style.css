@@ -619,7 +619,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  background: #FFFFFF;
+  background: #000000;
 }
 
 .probootstrap-section-half .probootstrap-text > .probootstrap-inner {
