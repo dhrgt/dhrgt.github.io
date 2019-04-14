@@ -302,9 +302,9 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
   right: 0;
   width: 100vw;
   height: 100vh;
-  background: rgba(0, 0, 0, 1);
+  background: rgba(0, 0, 0, 0.7);
   opacity: 0;
-  visibility: visible;
+  visibility: hidden;
   -webkit-transition: .3s all ease-out;
   transition: .3s all ease-out;
 }
@@ -619,6 +619,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
+  background-color: #rgba(0, 0, 0, 0);
 }
 
 .probootstrap-section-half .probootstrap-text > .probootstrap-inner {
