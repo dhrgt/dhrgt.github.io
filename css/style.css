@@ -22,7 +22,7 @@ html {
 body {
   background: #ffffff;
   font-size: 16px;
-  font-family: "Futura", sans-serif;
+  font-family: 'Major Mono Display', monospace;
   line-height: 1.8;
   color: rgba(0, 0, 0, 0.5);
 }
@@ -109,7 +109,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
   font-size: 30px;
   display: block;
   font-weight: 100;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Major Mono Display', monospace;;
 }
 
 .probootstrap-logo:hover, .probootstrap-logo:focus, .probootstrap-logo:active {
