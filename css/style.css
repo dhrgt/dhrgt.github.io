@@ -20,7 +20,7 @@ html {
 }
 
 body {
-  background: #ffffff;
+  background: #000000;
   font-size: 16px;
   font-family: 'Raleway', sans-serif;
   line-height: 1.8;
@@ -278,15 +278,15 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 }
 
 .probootstrap-main-nav li.active a {
-  color: #FFFFFF;
-}
-
-.probootstrap-main-nav li.active a:hover {
   color: #000000;
 }
 
-.probootstrap-mobile-menu-active .probootstrap-main-nav li.active a {
+.probootstrap-main-nav li.active a:hover {
   color: #FFFFFF;
+}
+
+.probootstrap-mobile-menu-active .probootstrap-main-nav li.active a {
+  color: #000000;
 }
 
 .probootstrap-mobile-menu-active .probootstrap-main-nav li {
