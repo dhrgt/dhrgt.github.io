@@ -278,7 +278,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 }
 
 .probootstrap-main-nav li.active a {
-  color: #000000;
+  color: #FFFFFF;
 }
 
 .probootstrap-main-nav li.active a:hover {
@@ -286,7 +286,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 }
 
 .probootstrap-mobile-menu-active .probootstrap-main-nav li.active a {
-  color: #000000;
+  color: #FFFFFF;
 }
 
 .probootstrap-mobile-menu-active .probootstrap-main-nav li {
