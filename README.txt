@@ -1,4 +1,3 @@
-THEME: Connect - Free Bootstrap Theme
 AUTHOR: uiCookies.com
 AUTHOR URI: https://uiCookies.com/
 
